@@ -135,3 +135,8 @@ This smart contract allows users to:
 To interact with the contract we have made a `interact.js` script. The script both deposits and withdraws, and shows balance. 
 
 This can be run by typing `npx hardhat run scripts/interact.js --network sepolia`. 
+
+## Working on this project
+When making this project we used the tasks from class as a staring point, and from there tried to implement other functionality then the one we did in class. We also utilized Chat GPT to refine and troubleshoot while working on this project. 
+
+Maren and Cem
